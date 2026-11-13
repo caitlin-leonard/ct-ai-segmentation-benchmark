@@ -8,6 +8,8 @@ The study is deliberately **staged** — small pilot → wider organ set → ful
 whether conclusions drawn from a small pilot survive at adequate sample size. They don't:
 the "best" tool changes as sample size and organ count grow, which is the central finding.
 
+📄 **[Technical report (PDF)](https://drive.google.com/file/d/11WrmLfF2BW7COW2HBqlgxMsV-xbyl28M/view?usp=sharing)**
+
 ![Ground truth vs. tool predictions on a representative FLARE22 subject](figs/segmentation_comparison.png)
 
 *Ground-truth vs. predicted segmentation (GT / TotalSegmentator / MOOSE / VoxTell) on a representative subject from the public FLARE22 dataset.*

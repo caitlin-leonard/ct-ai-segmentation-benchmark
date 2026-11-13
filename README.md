@@ -1,4 +1,4 @@
-# Multi-Organ CT Segmentation Benchmark — MOOSE vs TotalSegmentator vs VoxTell
+# Multi-Organ CT AI Segmentation Benchmark — MOOSE vs TotalSegmentator vs VoxTell
 
 A reproducible benchmark comparing three publicly available automated organ-segmentation
 tools — **MOOSE**, **TotalSegmentator**, and **VoxTell** — across up to 16 abdominal/thoracic
